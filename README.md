@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cheryl-01wan
+- 👋 Hi, I’m @SW Wan
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
